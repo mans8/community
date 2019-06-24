@@ -29,6 +29,8 @@
 
 [Lombok官方注解](https://www.projectlombok.org/features/all)
 
+[thymeleaf模板引擎文档](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html)
+
 ## 工具
 [Git](https://git-scm.com/download)
 [Visual Paradigm](https://www.visual-paradigm.com)
