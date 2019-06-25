@@ -31,6 +31,8 @@
 
 [thymeleaf模板引擎文档](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html)
 
+[Spring MVC官方文档](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config-interceptors)
+
 ## 工具
 [Git](https://git-scm.com/download)
 [Visual Paradigm](https://www.visual-paradigm.com)
