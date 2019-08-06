@@ -36,4 +36,9 @@
 ## 工具
 [Git](https://git-scm.com/download)
 [Visual Paradigm](https://www.visual-paradigm.com)
+[Live Reload]()
+[Postman]()
 
+
+
+mvn -Dmybatis.generator.overwriter=true mybatis-generator:generate
