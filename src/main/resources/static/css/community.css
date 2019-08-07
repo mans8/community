@@ -32,6 +32,13 @@ body {
 .jumbotron{
     margin: 50px;
 }
+.comment{
+    margin: 10px 0;
+}
+.btn-comment{
+    float: right;
+    margin-bottom: 10px;
+}
 
 
 
